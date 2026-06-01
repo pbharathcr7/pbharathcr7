@@ -14,7 +14,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pbharathcr7&color=6366F1&style=for-the-badge&label=Profile+Views)
 [![IEEE Published](https://img.shields.io/badge/IEEE-Published%202025-gold?style=for-the-badge&logo=ieee&logoColor=white)](#)
 
 </div>
