@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Bharath%20P&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Chennai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=60&descFontSize=18&descFontColor=a0aec0)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bharath%20P&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Chennai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=62&descFontSize=18&descFontColor=d0d0d0)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Engineer;Developed+AI-powered+analytics+%26+visualization+solutions)](https://git.io/typing-svg)
 
