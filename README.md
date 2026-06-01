@@ -1,14 +1,22 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,25:8B5CF6,50:A855F7,75:EC4899,100:06B6D4&height=250&section=header&text=Bharath%20P&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=62&descSize=20&descColor=ffffff&stroke=ffffff&strokeWidth=2"/>
+</div>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bharath%20P&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Chennai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=62&descFontSize=18&descFontColor=d0d0d0)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Engineer;Developed+AI-powered+analytics+%26+visualization+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=750&height=55&lines=Full+Stack+Developer+%7C+AI+Engineer;Angular+%7C+Python+%7C+Langchain+%7C+Langraph+%7C+MongoDB;IEEE+Published+%40+2025+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-### Software Engineer · Chennai, India 🇮🇳
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharath-p-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pbharathcr7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://pbharathcr7.github.io/Portfolio/)
+<a href="https://linkedin.com/in/bharath-p-dev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:pbharathcr7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://pbharathcr7.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=pbharathcr7&color=6366F1&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/pbharathcr7?style=for-the-badge&color=A855F7&logo=github&logoColor=white)
+[![IEEE Published](https://img.shields.io/badge/IEEE-Published%202025-gold?style=for-the-badge&logo=ieee&logoColor=white)](#)
 
 </div>
 
