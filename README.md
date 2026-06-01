@@ -94,7 +94,7 @@ Engineered a secure auth system supporting both internal and external identity p
 | 🏢 **Currently at** | Peninsular Research Operation, Chennai |
 | 🤖 **AI Systems Shipped** | 4+ production LLM pipelines |
 | 📄 **Published** | IEEE Xplore — Campus Commute (2025) |
-| 🎓 **Education** | B.E. CSE · Sathyabama University · CGPA 8.15 |
+| 🎓 **Education** | B.E. CSE · Sathyabama University |
 | 📍 **Location** | Chennai, India |
 
 ---
