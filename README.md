@@ -4,13 +4,10 @@
 
 ### Software Engineer · Chennai, India 🇮🇳
 
-```
-😅 Still waiting for my LLM to fix its own hallucinations
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharath-p-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pbharathcr7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/pbharathcr7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://pbharathcr7.github.io/Portfolio/)
 
 </div>
 
@@ -18,7 +15,8 @@
 
 ## 🧑‍💻 About Me
 
-Software Engineer at **Peninsular Research Operation**, Chennai. I build **AI-integrated products end-to-end** — from LangGraph analytics agents that turn natural language queries into drill-down charts *in under 5 seconds*, to full-stack platforms with secure auth architectures, social media clustering pipelines, and conversational data exploration tools.
+I'm a Software Engineer who loves the moment a messy business problem becomes a clean system.
+Currently at Peninsular Research Operation — shipping AI pipelines, Angular frontends, and LLM agents. I got into dev because I wanted to build, not just learn. That hasn't changed.
 
 - 🔭 Currently building: AI-powered analytics platforms, LLM applications & data visualization systems
 - 🌱 Deep-diving into: multi-agent systems, advanced LangGraph workflows, and cloud-native AI
@@ -36,7 +34,7 @@ Software Engineer at **Peninsular Research Operation**, Chennai. I build **AI-in
 Developed a **LangGraph-based workflow** that automatically generates multi-level drill-down charts from natural language queries.
 - ⏱️ Reduced chart creation from **10–15 minutes → under 5 seconds**
 - Enables business users to explore enterprise datasets through hierarchical visualizations
-- Stack: `LangGraph` `LangChain` `Azure OpenAI` `Plotly` `Python`
+- Stack: `LangGraph` `Azure OpenAI` `Angular` `Python`
 
 ### 💬 LLM Visualization Agent
 Built an LLM-powered agent that transforms natural language requests into interactive charts.
@@ -52,10 +50,6 @@ Designed a pipeline to cluster **5,000+ daily tweets** into related topic groups
 Engineered a secure auth system supporting both internal and external identity providers.
 - Seamless token refresh, route guards, and multi-IdP support
 - Stack: `Keycloak` `JWT` `Angular` `TypeScript`
-
-### 🛒 E-Commerce Platform (Full-Stack)
-Built a complete e-commerce platform from scratch covering product management and order workflows.
-- Stack: `Angular` `Node.js` `Express.js` `C#` `MongoDB` `MySQL`
 
 ---
 
@@ -89,7 +83,6 @@ Built a complete e-commerce platform from scratch covering product management an
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 ---
